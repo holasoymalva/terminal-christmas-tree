@@ -39,5 +39,7 @@ for x in range(1, full_height, 2):
         
 print('\n', end='') 
 print(("~"*width))
+print(Fore.RED + "       FELIZ NAVIDAD     ") 
+print(Fore.RED + "            Y            ")
 print(Fore.RED + "     FELICES FIESTAS!    ")
 print(("~"*width))  
